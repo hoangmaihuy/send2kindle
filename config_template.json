@@ -1,9 +1,9 @@
 {
-    "from": {
+    "sender": {
         "email": "example@gmail.com",
         "password": "YOUR SECRET PASSWORD"
     },
-    "to": [
+    "devices": [
         {
             "name": "Kindle Paperwhite 3",
             "kindle_email": "your_kindle_email@kindle.com"
