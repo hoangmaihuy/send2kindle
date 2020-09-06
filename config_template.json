@@ -1,0 +1,15 @@
+{
+    "from": {
+        "email": "example@gmail.com",
+        "password": "YOUR SECRET PASSWORD"
+    },
+    "to": [
+        {
+            "name": "Kindle Paperwhite 3",
+            "kindle_email": "your_kindle_email@kindle.com"
+        }, {
+            "name": "Kindle on iPhone",
+            "kindle_email": "iphone_kindle_email@kindle.com"
+        }
+    ]
+}
