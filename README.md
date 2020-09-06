@@ -6,9 +6,9 @@ Python script to send ebooks to Kindle devices
 git clone https://github.com/hoangmaihuy/send2kindle.git && cd send2kindle
 ```
 
-Change ```config_template.json``` to your email address and kindle address. Command to send books to kindle:
+Change ```config_template.json``` to your email address and kindle address and rename it to ```config.json```. Command to send books to kindle:
 ``` bash
-./send2kindle {first_path_to_your_book} {second_path_to_your_book} 
+./send2kindle.py {first_path_to_your_book} {second_path_to_your_book} 
 ```
 
 You can use send2kindle as a command line by adding it to alias. Open your ```.bashrc``` or ```.zshrc``` file and add following line:
